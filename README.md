@@ -1,5 +1,7 @@
 # Cocktail Glow
 
+[![Image alt text](https://img.youtube.com/vi/sJW00J2S8r8/0.jpg)](https://www.youtube.com/watch?v=sJW00J2S8r8)
+
 ## Technologies
 
 This project is build with **React** using external APIs & with dependencies:
