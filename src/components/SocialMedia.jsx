@@ -19,22 +19,13 @@ const SocialMedia = () => {
           <h3>Get In Touch</h3>
           <p>Phone: +34 999 12 34 56</p>
           <p>Email: contact@cocktailglow</p>
-          <a
-            href="https://www.youtube.com/c/jamesqquick"
-            className="youtube social"
-          >
+          <a href="https://www.youtube.com" className="youtube social">
             <FontAwesomeIcon icon={faYoutube} size="2x" />
           </a>
-          <a
-            href="https://www.facebook.com/learnbuildteach/"
-            className="facebook social"
-          >
+          <a href="https://www.facebook.com/" className="facebook social">
             <FontAwesomeIcon icon={faFacebook} size="2x" />
           </a>
-          <a
-            href="http://www.instagram.com/larnbuildteach"
-            className="instagram social"
-          >
+          <a href="http://www.instagram.com" className="instagram social">
             <FontAwesomeIcon icon={faInstagram} size="2x" />
           </a>
           <a href="https://wwww.twitter.com" className="twitter social">
